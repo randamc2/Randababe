@@ -1,0 +1,22 @@
+body{
+  background-color: gold;
+  font-family: garamond ;
+  margin: 20px 30px 20px 30px;
+  text-align: center;
+}
+h1{
+  color:grey;
+  font-size: 27px;
+  text-align: center;
+  text-shadow:5px 5px 10px black;
+}
+#words{
+text-decoration: underline;
+}
+.pic:hover{
+  -webkit-transform:scaleX(-1);
+  transform: scaleX(-1);
+}
+#miranda{
+text-decoration-color: green;
+}
